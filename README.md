@@ -24,8 +24,8 @@ The **CommentR Interaction Dataset** is a large-scale collection of human-LLM in
 
 * **Reply statistics:**
 
-  * 298,469 posts received at least one reply
-  * 1,033,505 total replies (from both CommentR and human users)
+  * 298,173 posts received at least one reply
+  * 1,028,364 total replies (from both CommentR and human users)
 
 ## Data Structure
 
