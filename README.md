@@ -34,7 +34,7 @@ Each record in the dataset includes:
 | Attribute     | Description                                                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | User profile  | User ID, nickname, profile photo URL, account type (verified/unverified)                                                      |
-| Post metadata | Post ID, creation time, client device, IP location, likes/comments/retweets, flags for long text, retweet, and attached media |
+| Post metadata | Post ID, creation time, client device, IP location, likes/comments/retweets                                                   |
 | Content       | Full text of the post                                                                                                         |
 
 ## Citation
