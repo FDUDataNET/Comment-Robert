@@ -61,7 +61,7 @@ Each record in the dataset includes:
     "sunshine_credit": "信用极好",
     "label_desc": ["视频累计播放量1.9万"]
 }
-
+```
 ### posts.json 
 ```json
 {
@@ -94,7 +94,7 @@ Each record in the dataset includes:
     "url": "https://weibo.com/2619656775/P97M1cXV2",
     "keyword": "@评论罗伯特"
 }
-
+```
 ### comments.json
 ```json
 {
@@ -122,7 +122,7 @@ Each record in the dataset includes:
         }
     }
 }
-
+```
 
 ## Citation
 
