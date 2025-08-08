@@ -31,11 +31,14 @@ The **CommentR Interaction Dataset** is a large-scale collection of human-LLM in
 
 Each record in the dataset includes:
 
-| Attribute     | Description                                                                                                                   |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| User profile  | User ID, nickname, profile photo URL, account type (verified/unverified)                                                      |
-| Post metadata | Post ID, creation time, client device, IP location, likes/comments/retweets                                                   |
-| Content       | Full text of the post                                                                                                         |
+| File          | Attributes                                                                 |
+| ------------- | -------------------------------------------------------------------------- |
+| users.json    | User ID, nickname, avatar URL, verification status, bio, followers/friends count, statuses count, gender, location, membership rank/type, birthday, account creation time, IP location, sunshine credit, label description |
+| posts.json    | Post ID, mblogid, creation time, geo, IP location, reposts count, comments count, likes count, source, content, image URLs/number, isLongText, is_retweet, user info, post URL, keyword |
+| comments.json | Comment ID, root post ID, creation time, likes count, IP location, content, comment user info, replied comment info |
+
+
+
 
 ## Citation
 
