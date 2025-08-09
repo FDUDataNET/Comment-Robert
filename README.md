@@ -2,7 +2,13 @@
 
 ## Overview
 
-The **CommentR Interaction Dataset** is a large-scale collection of human-LLM interactions from Weibo, focusing on posts where users actively mention the LLM agent account `@CommentR`. This sample dataset contains 1,000 posts, along with the corresponding users and all related comments, enabling research into user engagement patterns, demographic traits, and language behaviors in public interactions with a social media AI agent.
+The **CommentR Interaction Dataset** is a large-scale collection of human-LLM interactions from Weibo, focusing on posts where users actively mention the LLM agent account `@CommentR`. This dataset contains **557,645** posts, along with the corresponding **304,400** unique users and all related comments, enabling research into user engagement patterns, demographic traits, and language behaviors in public interactions with a social media AI agent.
+
+Here's a sample dataset containing 1,000 posts, along with their associated users and comments, available directly in this repository.
+
+The full dataset can be accessed via [Google Drive](https://drive.google.com/file/d/1mqXO9mLObt2UcMa8y9ZPvfPuwRBaiSyS/view?usp=sharing). 
+
+Please apply for access by contacting [skgu24@m.fudan.edu.cn](skgu24@m.fudan.edu.cn) or [yjyin24@m.fudan.edu.cn](skgu24@m.fudan.edu.cn) with your **institutional email address** and clearly **state your institution**, your **research advisor (if any)**, and your use case of **CommentR Interaction Dataset**.
 
 ## Data Collection
 
