@@ -39,9 +39,10 @@ Each record in the dataset includes:
 
 | File          | Attributes                                                                 |
 | ------------- | -------------------------------------------------------------------------- |
-| posts.json    | Post ID, mblogid, creation time, geo, IP location, reposts count, comments count, likes count, source, content, image URLs/number, isLongText, is_retweet, user info|
-| comments.json | Comment ID, root post ID, root comment ID, creation time, likes count, IP location, content, comment user info, replied comment info (if exists)|
-| users.json    | User ID, nickname, avatar URL, verification status, bio, followers/friends count, statuses count, gender, location, membership rank/type, birthday, account creation time, IP location, sunshine credit, label description |
+| User profile    | User ID, nickname, avatar URL, verification status, bio, followers/friends count, statuses count, gender, location, membership rank/type, birthday, account creation time, IP location, sunshine credit, label description |
+| Post metadata    | Post ID, mblogid, creation time, geo, IP location, reposts count, comments count, likes count, source, content, image URLs/number, isLongText, is_retweet, user info|
+| Comment metadata | Comment ID, root post ID, root comment ID, creation time, likes count, IP location, content, comment user info, replied comment info (if exists)|
+
 
 
 
