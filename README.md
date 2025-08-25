@@ -1,6 +1,6 @@
 # Comment-Robert
 
-## Overview
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.16921462.svg)](https://doi.org/10.5281/zenodo.16921462)
 
 The **CommentR Interaction Dataset** is a large-scale collection of human-LLM interactions from Weibo, focusing on posts where users actively mention the LLM agent account `@CommentR`. This dataset contains **557,645** posts, along with the corresponding **304,400** unique users and all related comments, enabling research into user engagement patterns, demographic traits, and language behaviors in public interactions with a social media AI agent.
 
