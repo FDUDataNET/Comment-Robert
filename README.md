@@ -1,14 +1,15 @@
-# Comment-Robert
+# CommentR Interaction Dataset
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.16921462.svg)](https://doi.org/10.5281/zenodo.16921462)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://zenodo.org/records/16921462)
 
 The **CommentR Interaction Dataset** is a large-scale collection of human-LLM interactions from Weibo, focusing on posts where users actively mention the LLM agent account `@CommentR`. This dataset contains **557,645** posts, along with the corresponding **304,400** unique users and all related comments, enabling research into user engagement patterns, demographic traits, and language behaviors in public interactions with a social media AI agent.
 
 Here's a sample dataset containing 1,000 posts, along with their associated users and comments, available directly in this repository.
 
-The full dataset can be accessed via [Google Drive](https://drive.google.com/file/d/1mqXO9mLObt2UcMa8y9ZPvfPuwRBaiSyS/view?usp=sharing). 
+The full dataset can be accessed via [Zenodo](https://zenodo.org/records/16921462). 
 
-Please apply for access by contacting [skgu24@m.fudan.edu.cn](skgu24@m.fudan.edu.cn) or [yjyin24@m.fudan.edu.cn](skgu24@m.fudan.edu.cn) with your **institutional email address** and clearly **state your institution**, your **research advisor (if any)**, and your use case of **CommentR Interaction Dataset**.
+[📥Download Dataset](https://zenodo.org/records/16921462)
+
 
 ## Data Collection
 
@@ -157,4 +158,13 @@ Each record in the dataset includes:
 
 ## Citation
 
+```bibtex
+@inproceedings{
+  title={{A Large-Scale Dataset of Interactions Between Weibo Users and Platform-Empowered LLM Agent}},
+  author={Gu, Shaokui and Yin, Yongjie and Gong, Qingyuan and Tong, Fenghua and Zhou, Yipeng and Duan, Qiang and Chen, Yang},
+  journal={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  year={2025},
+  pages={}
+}
+```
 
