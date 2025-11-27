@@ -31,7 +31,7 @@ The full dataset can be accessed via [Zenodo](https://zenodo.org/records/1692146
 
 * **Reply statistics:**
 
-  * 298,173 posts received at least one reply
+  * 163,159 posts received at least one reply
   * 1,028,364 total replies (from both CommentR and human users)
 
 ## Data Structure
@@ -159,12 +159,19 @@ Each record in the dataset includes:
 ## Citation
 
 ```bibtex
-@inproceedings{
-  title={{A Large-Scale Dataset of Interactions Between Weibo Users and Platform-Empowered LLM Agent}},
-  author={Gu, Shaokui and Yin, Yongjie and Gong, Qingyuan and Tong, Fenghua and Zhou, Yipeng and Duan, Qiang and Chen, Yang},
-  journal={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
-  year={2025},
-  pages={}
+@inproceedings{10.1145/3746252.3761607,
+author = {Gu, Shaokui and Yin, Yongjie and Gong, Qingyuan and Tong, Fenghua and Zhou, Yipeng and Duan, Qiang and Chen, Yang},
+title = {A Large-Scale Dataset of Interactions Between Weibo Users and Platform-Empowered LLM Agent},
+year = {2025},
+isbn = {9798400720406},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3746252.3761607},
+pages = {6392–6396},
+numpages = {5},
+keywords = {human-llm agent interaction, social media agent, user engagement behavior},
+location = {Seoul, Republic of Korea},
+series = {CIKM '25}
 }
 ```
 
